@@ -50,4 +50,4 @@ The `queries.sql` file includes:
 
 - One customer in the sample data intentionally has no accounts, to demonstrate the difference between an `INNER JOIN` and a `LEFT JOIN`.
 - `credit_limit` and `interest_rate` are nullable on the `accounts` table since they only apply to certain account types (e.g. a debit card has no credit limit or interest rate).
-- README. (2).md = Renamed to README.md
+- 'Clean up README note'
