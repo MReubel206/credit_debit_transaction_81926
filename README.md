@@ -45,6 +45,7 @@ The `queries.sql` file includes:
 ## Tools Used
 
 - MySQL Workbench (schema design, querying, ER diagram generation)
+- Git & GitHub (command-line workflow: SSH key setup, clone, add, commit, push via PowerShell)
 
 ## Notes
 
